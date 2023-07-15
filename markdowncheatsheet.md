@@ -57,9 +57,9 @@ print("Hello with tildas")
 
 - [ ] and this is not
 
-@ mentions
+@mentions
 
-</del>tags</del>
+<del>tags</del>
 
 🚲
 🎏 🏓
